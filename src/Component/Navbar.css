@@ -1,0 +1,27 @@
+.nav-styles{
+    display: flex;
+    background-color:#dc3545;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 3%;
+}
+.nav-styles h1{
+    color: coral;
+}
+.list{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.list li{
+    
+    list-style: none;
+    text-decoration: none;
+    color: chartreuse;
+}
+.fas.fa-eye{
+    font-size: xxx-large;
+    color: yellow;
+}
